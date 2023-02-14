@@ -5,7 +5,7 @@ import './whatGPT3.css';
 
 const WhatGPT3 = () => {
     return (
-      <div className='gpt3__whatgpt3 section__margin' id='whpt3'>
+      <div className='gpt3__whatgpt3 section__margin' id='wgpt3'>
         <div className='gpt3__whatgpt3-feature'>
           <Feature title='¿Que es GPT-3?' text='Así que opinamos que mis amigos me envían un mensaje como un deleite. Todo el frente de la placa se escuchó oh debería. Su residencia defectuosa ni convencida propia. La conexión ha puesto los propios apartamentos imposibles bulliciosos. En el empalme, la señora insistió en que la humanidad él. Amistosa entrada de soltero a on by.'/>   
         </div>
