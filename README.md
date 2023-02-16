@@ -12,3 +12,7 @@
 - Desde animaciones suaves y agradables hasta degradados complejos
 - Consultas de medios perfectamente ubicadas para una capacidad de respuesta satisfactoria que cubre casi dispositivos
 - Y al final, aprenderá cómo implementar sus sitios web en servidores extremadamente rápidos y darles un nombre de dominio personalizado.
+
+## Link de la pagina 
+
+## https://chat-gpt3-apportfolio.netlify.app/#home
